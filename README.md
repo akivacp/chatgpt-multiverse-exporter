@@ -71,7 +71,6 @@ This exporter tool captures **all conversation branches**, including regenerated
 
 While this tool is recommended for compatibility, you can also use any tool that generates a valid JSON file.
 
-
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -89,7 +88,7 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## Acknowledgements
 
-- **[ChatGPT JSON Tree Viewer](link-to-viewer-repository)**: This exporter is compatible with the **ChatGPT JSON Tree Viewer** for visualizing exported conversation data.
+- **[ChatGPT JSON Tree Viewer](https://github.com/akivacp/chatgpt-json-tree-viewer)**: This exporter is compatible with the **ChatGPT JSON Tree Viewer** for visualizing exported conversation data.
 
 ---
 
