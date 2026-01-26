@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         ChatGPT Multiverse Exporter (v8.3) Draggable Linked Badge+Button (Keep On Screen)
-// @namespace    https://yourdomain.example
 // @version      8.3
 // @description  Draggable linked badge + export button. Drag either element and both move. Always kept inside viewport.
 // @match        https://chatgpt.com/*
