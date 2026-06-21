@@ -1,4 +1,8 @@
-# ChatGPT Multiverse Exporter (v8.3)
+This is **vibe coded software**.
+
+---
+
+# ChatGPT Multiverse Exporter
 
 **A userscript to capture and export ChatGPT conversation data as JSON files.**
 
